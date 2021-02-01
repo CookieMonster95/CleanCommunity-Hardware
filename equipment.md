@@ -1,5 +1,5 @@
-#Team Cleanup
-##Equipment 
+# Team Cleanup
+## Equipment 
 
 * Name: Kevin D. Delgado (Raspberry Pi 3B+)
 * Part: Air Quality Sensor
