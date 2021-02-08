@@ -3,7 +3,6 @@
 import time
 import RPi.GPIO as GPIO
 import Adafruit_CharLCD as LCD
-import si7021
 import serial
 
 def ledRun():
