@@ -4,6 +4,7 @@
 * Name: Kevin D. Delgado (Raspberry Pi 3B+)
 * Part: Air Quality Sensor
   * SGP30
+  * (Prototype uses CCS811)
 * Name: Harry Hai Dinh (Raspberry Pi 3B+)
 * Part:Temperature and Humidity sensor
   * Si7021
